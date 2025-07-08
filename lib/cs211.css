@@ -128,7 +128,7 @@ h1,h2,h3 {
 
 
 /* main left sidebar (menu)  */
-.sidenav h1,.sidenav ul {
+.sidenav ul {
 	padding-left: 12px;
 }
 .sidenav {
