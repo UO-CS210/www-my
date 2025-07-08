@@ -1,6 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/html" xml:lang="en">
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/html" lang="en-us">
 <head>
     <?php include("getroots.php"); ?>
     <?php include("lib/headcontent.php"); ?>
@@ -69,9 +68,9 @@
                         <a href="https://uo-cs-oer.github.io/CS210-text/04-More-Loops/04-01-More-Loops.html">
                             More looping: successive approximation</a></td>
                     <td class="project">
-                        <a href="K-means clustering of wildfire data">
-                            Anagram finder
-                        </a></td>
+                        <a href="https://github.com/UO-CS210/wildfire">
+                            Wildfire
+                        </a>:K-means clustering of geographic data</td>
                 </tr>
                 <tr><td class="week">5</td>
                     <td class="dates">Oct 28</td>
