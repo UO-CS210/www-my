@@ -20,16 +20,15 @@
             <p>CS 210 is the first course of the Computer Science and MACS
                 majors, a core course for DSCI majors, and a strong
                 introduction for students in other majors who are planning or
-                considering computing as an element of their
+                considering computing as a significant element of their
                 education and career.</p>
 
             <p>The CS 21x series at University of Oregon is a core requirement
                 for
                 students majoring in computer science, data science, math and
                 computer science, and cybersecurity. It is also appropriate for
-                students who intend to develop computational approaches for
-                other
-                fields. </p>
+                students who intend to develop computational approaches in
+                other fields. </p>
 
             <p>The objective of this course is to introduce the basic concepts
                 and practices of computer science. We will cover
@@ -38,14 +37,20 @@
                 science topics. These are the foundation for further study of
                 computer science, whether in the CS major or for
                 developing and applying computational methods in other
-                disciplines.
+                disciplines.</p>
 
             <p>We will explore computational concepts using the Python
-                programming language.
+                programming language.  Python is the vehicle for our
+                learning, not the topic of the course.  We won't study every
+                corner of the language.  We will help you build a solid
+                foundation for self-study of additional Python features
+                useful in your application domain, if you later use Python
+                professionally or in your research.</p>
 
-            <p> We move fast and play hard. You are welcome here. You belong.
-                Expect to work hard. We will do our best to help
-                you succeed.
+            <p> We move fast and play hard. Expect to work hard. <br>
+                You are welcome here. You belong.
+                Do your best, and we will do our best to
+                help you succeed.</p>
 
             <h2>Pre-requisites</h2>
 
@@ -127,30 +132,36 @@
                 <p>We will use a free, online textbook,
                     <a href="https://uo-cs-oer.github.io/CS210-text/intro.html"
                        target="cs210-text">Introduction to Computer Science,
-                        Part
-                        I</a>. In addition, each weekly project includes a
+                        Part I</a>. In addition, each weekly project includes a
                     substantial "HOWTO" that must be read carefully. Expect to
                     read the equivalent of about 20 pages per week, and expect
                     to read much of it more than once. </p>
 
 
                 <h2>Approach</h2>
-                <p>CS 210 is a challenging course. Do your best, and we will
-                    do our best to help you succeed. The instructional team
-                    composed of the instructor, graduate teaching assistants,
+                <p>CS 210 is a challenging course.  The instructional team
+                    comprised of the instructor, graduate teaching assistants,
                     and undergraduate learning assistants, as well as Class
                     Encore leaders, all want you to succeed and will do our
                     very best to make your success possible.
                 </p>
+                <p>This is <em>not</em> an online or hybrid course. Although
+                    I do record lectures for you to review after class,
+                    physical <em>or</em> mental
+                    absenteeism is a recipe for
+                    failure. Show up, engage, and interact
+                    with your classmates as well as your instructional team
+                    to get the most out of this class.
+                </p>
                 <p>We will schedule extensive help hours, in person in the
-                    Price Science Commons (PSC) CS Tutorial Room in the
+                    Price Science Commons CS Tutorial Room in the
                     basement of
                     the science library, and by Zoom. Help hours will be staffed
                     by the instructor, GE-Ts, and LAs. </p>
                 <p> Class Encore is a free
                     service offered by the Tutoring and Academic Engagement
                     Center. You will have an opportunity to sign up for Class
-                    Encore in week 2.Class Encore leaders are advanced
+                    Encore in week 2.  Class Encore leaders are advanced
                     undergraduate students
                     who lead additional study sessions with materials designed
                     to help you succeed in CS 210. </p>
@@ -181,7 +192,7 @@
                     enough that you can apply the same approaches to similar
                     problems.</p>
 
-                <p>Your intructor, graduate teaching assistants,
+                <p>Your instructor, graduate teaching assistants,
                     undergraduate learning assistants, and Class Encore
                     leaders are a team. We meet weekly to discuss what is
                     going well, problems we have encountered, and how we can
@@ -224,7 +235,7 @@
                         use of what you learned.
                     </dd>
                     <dt>F</dt>
-                    <dd>ittle or no demonstrated grasp of concepts and
+                    <dd>Little or no demonstrated grasp of concepts and
                         approaches
                         introduced in this class, and/or failure to carry out
                         much of the required work.
