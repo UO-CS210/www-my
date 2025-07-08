@@ -1,6 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/html" xml:lang="en">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html" xml:lang="en-us">
 <head>
     <?php include("getroots.php"); ?>
     <?php include("lib/headcontent.php");
@@ -95,7 +94,6 @@
                 </li>
                 <li> implement a sampling of classic computer science problem
                     domains and algorithms
-                </li>
                 </li>
             </ul>
 
@@ -220,15 +218,17 @@
                         or MACS major.
                     </dd>
                     <dt>D</dt>
-                    <d>Your demonstrated grasp of concepts and approaches and/or
+                    <dd>Your demonstrated grasp of concepts and approaches
+                        and/or
                         your programming skills, are not yet sufficient to make
                         use of what you learned.
-                    </d>
+                    </dd>
                     <dt>F</dt>
-                    <d>ittle or no demonstrated grasp of concepts and approaches
+                    <dd>ittle or no demonstrated grasp of concepts and
+                        approaches
                         introduced in this class, and/or failure to carry out
                         much of the required work.
-                    </d>
+                    </dd>
                 </dl>
 
 
