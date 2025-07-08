@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/html" xml:lang="en-us">
+<html xmlns="http://www.w3.org/1999/html" lang="en-us">
 <head>
     <?php include("getroots.php"); ?>
     <?php include("lib/headcontent.php");
